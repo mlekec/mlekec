@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👋 Hi there
 
-<!--
-**mlekec/mlekec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/mlekec/mlekec/blob/main/hello-world.gif)
 
-Here are some ideas to get you started:
+##  :eyes: **About me** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Improving my skills while:**
+
+:mortar_board: getting Master's degree at KTU (program "Digital Culture", or Media Philosophy to be clearer)
+
+:chart_with_upwards_trend: learning Data Analytics at Turing College
+
+**Hobbies:**
+
+:evergreen_tree: hiking
+
+:clapper: watching movies & TV series of all kinds
+
+:book: reading books (fantasy, art, science, philosophy)
+
+
+## :bell: **You can find me**
+
+For my professional presence and work/learning experience you can find me here:
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/monika-lekeckaite/)
