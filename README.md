@@ -10,17 +10,10 @@
 
 :chart_with_upwards_trend: learning Data Analytics at Turing College
 
-**Hobbies:**
-
-:evergreen_tree: hiking
-
-:clapper: watching movies & TV series of all kinds
-
-:book: reading books (fantasy, art, science, philosophy)
 
 
-## :bell: **You can find me**
+## :bell: **More about me**
 
-For my professional presence and work/learning experience you can find me here:
+My data analysis portfolio can be found here: [GitHub](https://github.com/mlekec/data-analysis-portfolio)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/monika-lekeckaite/)
+For my professional presence and work/learning experience you can find me here: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/monika-lekeckaite/)
